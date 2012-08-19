@@ -1,7 +1,6 @@
 
-
 int Shit = 13;
-int y=500;
+int y = 500;
 void setup() {
   // initialize serial communication at 9600 bits per second:
   Serial.begin(9600);
