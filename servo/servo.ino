@@ -1,5 +1,5 @@
 /*This takes a pot input and controls a servo from 0 to 180 degrees.
-Serial.print()can take parameters of analogRead(A0) or x with
+Serial.print()can take a parameters of analogRead(A0) or x with
 x=myservo.read().  */
 
 #include <Servo.h>
