@@ -1,5 +1,4 @@
 
-
 int Shit = 13;
 int y=265;
 void setup() {
@@ -7,7 +6,7 @@ void setup() {
   Serial.begin(9600);
   pinMode(Shit, OUTPUT);
 }
-
+//loop:
 // the loop routine runs over and over again forever:
 void loop() {
   // read the input on analog pin 0:
